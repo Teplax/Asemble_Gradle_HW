@@ -1,0 +1,5 @@
+rootProject.name = 'AsembleSystem_Gradle_HW'
+include 'db'
+include 'api'
+include 'service'
+
